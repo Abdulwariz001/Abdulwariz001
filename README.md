@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wariz_azeez1" target="blank"><img src="https://img.shields.io/twitter/follow/wariz_azeez1?logo=twitter&style=for-the-badge" alt="wariz_azeez1" /></a> </p>
 
-- 🔭 I’m currently working on **Node js, React.js, Express.**
+- 🔭 I’m currently working on **Something Cool**
 
 - 🌱 I’m currently learning **Express and React.js**
 
